@@ -1,1 +1,1 @@
-# Reacy-Currency-App
+# React-Currency-App
